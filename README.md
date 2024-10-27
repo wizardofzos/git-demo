@@ -7,3 +7,5 @@ More information added in commit 0.
 More information added in commit 3.
 ## Update 6
 More information added in commit 6.
+## Update 9
+More information added in commit 9.
