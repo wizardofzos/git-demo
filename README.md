@@ -5,3 +5,5 @@ This is the README file for the demo repository.
 More information added in commit 0.
 ## Update 3
 More information added in commit 3.
+## Update 6
+More information added in commit 6.
